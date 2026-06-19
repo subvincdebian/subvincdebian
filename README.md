@@ -48,8 +48,8 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subvincdebian&show_icons=true&theme=visual_studio_dark&locale=en" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subvincdebian&layout=compact&theme=visual_studio_dark&locale=en" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subvincdebian&show_icons=true&theme=dark&locale=en&cache_bust=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subvincdebian&layout=compact&theme=dark&locale=en&cache_bust=true" alt="Top Langs" width="48%" />
 </p>
 
 ---
@@ -60,5 +60,5 @@ If you have an interesting job opportunity, an internship, or a cool project for
 
 💬 **Telegram:** [@gmblessed](https://t.me/gmblessed)  
 📧 **Email:** [aghmichal68@gmail.com](mailto:aghmichal68@gmail.com)  
-💼 **LinkedIn:** [mihal-ag](https://www.linkedin.com/in/mihal-ag-096027418/))  
+💼 **LinkedIn:** [mihal-ag](https://www.linkedin.com/in/mihal-ag-096027418/)  
 🌐 **Portfolio:** [genyxo.com](https://genyxo.com)
