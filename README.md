@@ -47,13 +47,9 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 
 ## 📊 GitHub Stats
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subvincdebian&show_icons=true&theme=dark&locale=en&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subvincdebian&layout=compact&theme=dark&locale=en&count_private=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subvincdebian&show_icons=true&theme=dark&locale=en&count_private=true&cache_bust=v3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subvincdebian&layout=compact&theme=dark&locale=en&count_private=true&cache_bust=v3" alt="Top Langs" width="48%" />
 </p>
 
 ---
