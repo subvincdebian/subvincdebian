@@ -60,5 +60,5 @@ If you have an interesting job opportunity, an internship, or a cool project for
 
 💬 **Telegram:** [@gmblessed](https://t.me/gmblessed)  
 📧 **Email:** [aghmichal68@gmail.com](mailto:aghmichal68@gmail.com)  
-💼 **LinkedIn:** [mihal-ag](https://www.linkedin.com/in/mihal-ag-096027418/)  
-🌐 **Portfolio:** [genyxo.com](https://genyxo.com)
+💼 **LinkedIn:** [mihal-ag](https://www.linkedin.com/in/mihal-ag)  
+🌐 **Site:** [genyxo.com](https://genyxo.com)
