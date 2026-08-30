@@ -8,21 +8,23 @@
 
 I am a passionate **Frontend Developer** focused on building fast, scalable, and intuitive web applications. Currently honing my skills and acquiring strong academic foundations at Ukraine's top university.
 
-* 🎓 **Education:** Information Systems & Technologies student at **Taras Shevchenko National University of Kyiv (KNU)**.
-* 🚀 **Goal:** Seeking a **Junior Frontend** position to gain industry experience and build impactful software.
-* 🧠 **Focus Areas:** Web application architecture, UI/UX optimization, state management, and writing clean, maintainable code.
+- 🎓 **Education:** Information Systems & Technologies student at **Taras Shevchenko National University of Kyiv (KNU)**.
+- 🚀 **Goal:** Seeking a **Junior Frontend** position to gain industry experience and build impactful software.
+- 🧠 **Focus Areas:** Web application architecture, UI/UX optimization, state management, and writing clean, maintainable code.
 
 ---
 
 ## 🛠️ My Tech Stack
 
 ### 🌐 Languages
+
 🚀 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 🟨 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 🔵 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 🐍 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### 🎨 Frontend & UI Components
+
 ⚛️ [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 🅰️ [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
 🔥 [![RxJS](https://img.shields.io/badge/RxJS-B20062?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/)
@@ -34,11 +36,13 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 💅 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 📦 Monorepos & Package Managers
+
 🔷 [![Nx](https://img.shields.io/badge/Nx-14171F?style=for-the-badge&logo=nx&logoColor=white)](https://nx.dev/)
 📦 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 🔴 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
 ### ⚙️ Backend, Cloud & Storage
+
 🦁 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 ☁️ [![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/developer-platform/r2/)
 🔄 [![REST API](https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white)](https://restfulapi.net/)
@@ -46,6 +50,7 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 📜 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 
 ### 🗄️ Databases & ORMs
+
 🐘 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 🐬 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 🔴 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
@@ -54,6 +59,7 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 🛡️ [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
 
 ### 🧪 Testing, Quality & Design Systems
+
 🎭 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 📚 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 🎨 [![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white)](https://www.chromatic.com/)
@@ -63,6 +69,7 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 🚨 [![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developer.chrome.com/docs/lighthouse/)
 
 ### 🚀 DevOps, Observability & Automation
+
 🏗️ [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 🐳 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 🎯 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
@@ -77,15 +84,10 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subvincdebian&theme=dark" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subvincdebian&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subvincdebian&theme=onedark&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
+  <img src="https://raw.githubusercontent.com/subvincdebian/subvincdebian/main/github-metrics-languages.svg" alt="Most Used Languages" width="100%" />
 </p>
 
 ---
