@@ -81,7 +81,7 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=subvincdebian&theme=dark" alt="GitHub Streak Stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/subvincdebian/subvincdebian/main/github-metrics-languages.svg" alt="Most Used Languages" width="49%" />
+  <img src="./github-metrics-languages.svg" alt="Most Used Languages" width="49%" />
 </p>
 
 ---
