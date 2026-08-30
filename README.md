@@ -80,8 +80,12 @@ I am a passionate **Frontend Developer** focused on building fast, scalable, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subvincdebian&theme=dark" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=subvincdebian&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=subvincdebian&theme=dark" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subvincdebian&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subvincdebian&theme=onedark&no-frame=true&column=6" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
