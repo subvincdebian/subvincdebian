@@ -16,7 +16,7 @@ I build responsive interfaces, reusable components and API integrations. My expe
 - Worked on two redesigns, mobile layouts, chat interactions, localization and API error handling.
 - Current frontend: React, TypeScript and Next.js. The migration to Next.js and complex integrations involved AI-assisted development.
 
-[Website](https://genyxo.com) · [Frontend source](https://github.com/subvincdebian/Genyxo/tree/main/apps/web) · [Setup](https://github.com/subvincdebian/Genyxo#local-development)
+[Website](https://genyxo.com) · [Frontend source](https://github.com/subvincdebian/Genyxo/tree/master/apps/web) · [Setup](https://github.com/subvincdebian/Genyxo#local-development)
 
 ### [Eternal](https://github.com/rakuzan-knu/Eternal) — team social network
 
