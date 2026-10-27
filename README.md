@@ -1,97 +1,44 @@
-# Hi there, I'm Mihal! 👋
+<img src="assets/profile-banner.svg" alt="Mihal Agh — subvincdebian — Junior Frontend Developer" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subvincdebian&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+**Junior Frontend Developer · React · TypeScript · JavaScript**
 
-## 🧑‍💻 About Me
+I build responsive interfaces, reusable components and API integrations. My experience includes client work on **Genyxo** and co-founding **Eternal**, a team social-network project.
 
-I am a passionate **Frontend Developer** focused on building fast, scalable, and intuitive web applications. Currently honing my skills and acquiring strong academic foundations at Ukraine's top university.
+**Open to work:** full-time, part-time and contract. Remote first; also open to hybrid work in Kyiv.
 
-* 🎓 **Education:** Information Systems & Technologies student at **Taras Shevchenko National University of Kyiv (KNU)**.
-* 🚀 **Goal:** Seeking a **Junior Frontend** position to gain industry experience and build impactful software.
-* 🧠 **Focus Areas:** Web application architecture, UI/UX optimization, state management, and writing clean, maintainable code.
+[LinkedIn](https://www.linkedin.com/in/mihal-ag/) · [Email](mailto:aghmichal68@gmail.com) · [Telegram](https://t.me/gmblessed)
 
----
+## Selected projects
 
-## 🛠️ My Tech Stack
+### [Genyxo](https://github.com/subvincdebian/Genyxo) — client AI platform
 
-### 🌐 Languages
-🚀 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-🟨 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-🔵 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-🐍 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- Built the backend and most of the frontend, with occasional frontend help from another developer.
+- Worked on two redesigns, mobile layouts, chat interactions, localization and API error handling.
+- Current frontend: React, TypeScript and Next.js. The migration to Next.js and complex integrations involved AI-assisted development.
 
-### 🎨 Frontend & UI Components
-⚛️ [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-🅰️ [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
-🔥 [![RxJS](https://img.shields.io/badge/RxJS-B20062?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/)
-🛡️ [![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
-👁️ [![Lucide React](https://img.shields.io/badge/Lucide_React-F56565?style=for-the-badge&logo=react&logoColor=white)](https://lucide.dev/)
-🎨 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-👠 [![SASS/SCSS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.org/)
-🌐 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-💅 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[Website](https://genyxo.com) · [Frontend source](https://github.com/subvincdebian/Genyxo/tree/main/apps/web) · [Setup](https://github.com/subvincdebian/Genyxo#local-development)
 
-### 📦 Monorepos & Package Managers
-🔷 [![Nx](https://img.shields.io/badge/Nx-14171F?style=for-the-badge&logo=nx&logoColor=white)](https://nx.dev/)
-📦 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
-🔴 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+### [Eternal](https://github.com/rakuzan-knu/Eternal) — team social network
 
-### ⚙️ Backend, Cloud & Storage
-🦁 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-☁️ [![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/developer-platform/r2/)
-🔄 [![REST API](https://img.shields.io/badge/REST_API-0055E6?style=for-the-badge&logo=json&logoColor=white)](https://restfulapi.net/)
-🔌 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://socket.io/)
-📜 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
+- Co-founder and developer; the project started with three developers.
+- Worked on React/TypeScript UI, responsive layouts, loading states, shared components and keyboard interaction.
+- Stack: React, Vite, Tailwind CSS, TanStack Query and Zustand; NestJS backend. Advanced platform features also involved AI assistance.
 
-### 🗄️ Databases & ORMs
-🐘 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-🐬 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-🔴 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-🪶 [![SQLite](https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-💎 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-🛡️ [![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
+[Website](https://eternalnet.vercel.app) · [Frontend source](https://github.com/rakuzan-knu/Eternal/tree/main/apps/web) · [Project overview](https://github.com/rakuzan-knu/Eternal#readme)
 
-### 🧪 Testing, Quality & Design Systems
-⚡ [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)](https://vitest.dev/)
-🎭 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-📚 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
-🎨 [![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white)](https://www.chromatic.com/)
-🃏 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-🔍 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
-✨ [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
-🚨 [![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](https://developer.chrome.com/docs/lighthouse/)
+### More frontend work
 
-### 🚀 DevOps, Observability & Automation
-🏗️ [![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-🐳 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-🎯 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
-🔥 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
-📊 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
-🚀 [![Semantic Release](https://img.shields.io/badge/Semantic_Release-494949?style=for-the-badge&logo=semanticrelease&logoColor=white)](https://semantic-release.gitbook.io/)
-⚙️ [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-⚡ [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-🐶 [![Husky](https://img.shields.io/badge/Husky-4285F4?style=for-the-badge&logo=git&logoColor=white)](https://typicode.github.io/husky/)
-🐙 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-🚀 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+| Project | What to explore |
+| --- | --- |
+| [VIRaTeC](https://github.com/rakuzan-knu/VIRaTeC) | Bilingual KNU research-community platform: project and publication directories, member profiles and account flows. React + TypeScript. |
+| [Syntaxis](https://github.com/rakuzan-knu/Syntaxis) | Bilingual web-studio site with interactive UI demos and a project brief composer. React + TypeScript. Demo flows are simulated. |
 
----
+## Stack
 
-## 📊 GitHub Stats & Languages
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, REST APIs.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subvincdebian&theme=dark" alt="GitHub Streak Stats" width="49%" />
-  <img src="./github-metrics-languages.svg" alt="Most Used Languages" width="49%" />
-</p>
+**Additional project experience:** NestJS, Node.js, MySQL, PostgreSQL, Redis, Docker and Git.
 
----
+Information Systems and Technologies student at **Taras Shevchenko National University of Kyiv**.
 
-## 🤝 Connect with me
-
-If you have an interesting job opportunity, an internship, or a cool project for collaboration—feel free to reach out!
-
-💬 **Telegram:** [@gmblessed](https://t.me/gmblessed)  
-📧 **Email:** [aghmichal68@gmail.com](mailto:aghmichal68@gmail.com)  
-💼 **LinkedIn:** [mihal-ag](https://www.linkedin.com/in/mihal-ag)  
-🌐 **Site:** [genyxo.com](https://genyxo.com)
+For a junior frontend opportunity or a small web project, [message me on LinkedIn](https://www.linkedin.com/in/mihal-ag/) or [email me](mailto:aghmichal68@gmail.com).
