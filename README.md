@@ -1,6 +1,6 @@
-<img src="assets/profile-banner.svg" alt="Mihal Agh — subvincdebian — Junior Frontend Developer" width="100%" />
+<img src="assets/profile-banner.svg" alt="Mihal Agh — subvincdebian — Frontend Developer" width="100%" />
 
-**Junior Frontend Developer · React · TypeScript · JavaScript**
+**Frontend Developer · React · TypeScript · JavaScript**
 
 I build responsive interfaces, reusable components and API integrations. My experience includes client work on **Genyxo** and co-founding **Eternal**, a team social-network project.
 
@@ -41,4 +41,4 @@ I build responsive interfaces, reusable components and API integrations. My expe
 
 Information Systems and Technologies student at **Taras Shevchenko National University of Kyiv**.
 
-For a junior frontend opportunity or a small web project, [message me on LinkedIn](https://www.linkedin.com/in/mihal-ag/) or [email me](mailto:aghmichal68@gmail.com).
+For a frontend opportunity or a small web project, [message me on LinkedIn](https://www.linkedin.com/in/mihal-ag/) or [email me](mailto:aghmichal68@gmail.com).
