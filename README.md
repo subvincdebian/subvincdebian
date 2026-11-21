@@ -7,6 +7,8 @@ I build responsive interfaces, reusable components and API integrations. My expe
 **Open to work:** full-time, part-time and contract. Remote first; also open to hybrid work in Kyiv.
 
 [LinkedIn](https://www.linkedin.com/in/mihal-ag/) · [Email](mailto:aghmichal68@gmail.com) · [Telegram](https://t.me/gmblessed)
+**Support my work:** [Become a patron on Patreon](https://www.patreon.com/cw/subvincdebian).
+
 
 ## Selected projects
 
